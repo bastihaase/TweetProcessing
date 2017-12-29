@@ -1,0 +1,2 @@
+# TweetProcessing
+The scripts in this repository allow you to download all tweets of a twitter user, the resulting tweets will then be preprocessed (stemming etc) and then used as training data for a neuron model in TensorFlow. The resulting model will then be visualized by projecting the word vectors into a plane. Distance correlates to semantic similarity. This can be used to analyze rhetoric of popular twitter personalities. Of course, it is easy to extend this to input the tweets of numerous users to analyze rhetoric of certain groups.
